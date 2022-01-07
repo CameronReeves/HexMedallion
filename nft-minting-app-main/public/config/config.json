@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3afa99592bce2844a34c5c4e38a42bf3dedf1f90",
+  "SCAN_LINK": "https://etherscan.io/token/0x3afa99592bce2844a34c5c4e38a42bf3dedf1f90",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Hex Medallion",
+  "SYMBOL": "HM",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.05555,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hexmedalion",
+  "SHOW_BACKGROUND": true
+}
